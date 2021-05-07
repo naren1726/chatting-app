@@ -1,1 +1,1 @@
-# My chat app makes easier to get contact and communcate with the people.
+# My chat app makes easier to get contact and communicate with the people.
